@@ -19,8 +19,8 @@ git clone https://github.com/xiaorouji/openwrt-passwall-packages.git -b main pac
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/passwall
 
 # => mosdns
-git clone https://github.com/sbwml/luci-app-mosdns -b v5 package/mosdns
-git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
+#git clone https://github.com/sbwml/luci-app-mosdns -b v5 package/mosdns
+#git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
 
 #主题
 rm -rf feeds/luci/themes/luci-theme-bootstrap
